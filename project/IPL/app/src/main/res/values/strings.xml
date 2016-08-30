@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">IPL</string>
+    <string name="action_settings">Settings</string>
+    <string name="_40">$40</string>
+
+    <string name="page_heading_electronics"> Electronics </string>
+
+    <string name="mac_title">Macbook pro\n$1500 </string>
+    <string name="price_tag_mac">protect now for 50$</string>
+    <string name="box1"> </string>
+
+    <string name="jbl_title">JBL Sound   \n$1000 </string>
+    <string name="price_tag_jbl">protect now for 40$</string>
+    <string name="box2"> </string>
+
+    <string name="lcd_title">      LCD         \n$900 </string>
+    <string name="price_tag_lcd">protect now for 30$</string>
+    <string name="box3"> </string>
+
+    <string name="oven_title">Oven\n$700 </string>
+    <string name="price_tag_oven">protect now for 20$</string>
+    <string name="box4"> </string>
+
+    <string name="ipad_title">I Pad\n$400 </string>
+    <string name="price_tag_ipad">protect now for 10$</string>
+    <string name="box5"> </string>
+
+    <item name="textView4" type="id" />
+</resources>
